@@ -1,0 +1,18 @@
+.odd
+{
+background-color: rgb(241, 59, 226);
+font-family: Verdan, DejaVu Sans, sans-serif;
+}
+
+#second{
+color:#0000ff;
+font-size: 36px;
+}
+#size{
+    font-size: 24px;
+}
+#gre{
+    font-weight: bold;  
+    background-color: rgb(137, 233, 137);
+    font-size: 24px;
+}
